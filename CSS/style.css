@@ -18,6 +18,8 @@
   font-weight: 400;
   font-style: normal;
 }
+
+/* Login-Page Styles */
 body {
   background-image: url(../Assets/bg.jpg);
 }
@@ -53,3 +55,11 @@ form {
 .SignUP-container a {
   text-decoration: none;
 }
+.input-container {
+  display: flex;
+}
+.input-container span {
+  border-bottom: 1px solid black;
+}
+
+/* SignUP Page Styles */
